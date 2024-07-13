@@ -69,7 +69,7 @@ This is a Flask-based messaging system that uses Celery and RabbitMQ for backgro
 2. **Run the Flask application:**
 
     ```sh
-    flask run --port=8000
+    python app.py
     ```
 
 3. **Access the application:**
