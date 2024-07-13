@@ -1,0 +1,5 @@
+Flask
+celery
+uvicorn[standard]
+aio_pika
+python-dotenv
